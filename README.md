@@ -65,6 +65,5 @@
 
 <div align="center">
 
-  ![Snake animation](https://github.com/EduardodosSantosRocha2/EduardodosSantosRocha2/blob/output/github-contribution-grid-snake.svg)
   
 </div>
